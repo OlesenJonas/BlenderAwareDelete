@@ -1,4 +1,4 @@
-# BlenderAwareDelete
+# Context Aware Delete (Blender)
 
 Tired of having to confirm what you want to delete?
 This script automatically deletes Vertices, Edges, Faces depending on what selection type is active.
